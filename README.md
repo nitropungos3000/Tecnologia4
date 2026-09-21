@@ -9,7 +9,7 @@ A continuación, los enlaces a las distintas carpetas de los distintos proyectos
 | Nombre del proyecto | Imagen relacionada | Enlace a la carpeta |
 | --- | --- | --- |
 | `Diseño` | List all *new or modified* files | [Pincha aquí](https://github.com/nitropungos3000/Tecnologia4/tree/main/1.%20Dise%C3%B1o) |
-| `Electrónica básica` | List all *new or modified* files | --- |
-| `Neumática` | List all *new or modified* files | --- |
-| `Teleco Games` | List all *new or modified* files | --- |
-| `ODS` | List all *new or modified* files | --- |
+| `Electrónica básica` | List all *new or modified* files | [Pincha aquí](https://github.com/nitropungos3000/Tecnologia4/tree/main/2.%20Electr%C3%B3nica%20b%C3%A1sica) |
+| `Neumática` | List all *new or modified* files | [Pincha aquí](https://github.com/nitropungos3000/Tecnologia4/tree/main/3.%20Neum%C3%A1tica) |
+| `Teleco Games` | List all *new or modified* files | [Pincha aquí](https://github.com/nitropungos3000/Tecnologia4/tree/main/4.%20Teleco%20Games) |
+| `ODS` | List all *new or modified* files | [Pincha aquí](https://github.com/nitropungos3000/Tecnologia4/tree/main/5.%20ODS) |
