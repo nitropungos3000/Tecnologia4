@@ -6,7 +6,7 @@ Bienvenidos a mi cuaderno de ingeniería, parte de la asignatura Tecnología en 
 
 A continuación, los enlaces a las distintas carpetas de los distintos proyectos:
 
-| Nombre del proyecto | Imagen relacionada | Enlace a la carpeta |
+| Nombre del proyecto | Imagen relacionada |
 | --- | --- |
 | `git status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
