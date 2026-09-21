@@ -8,8 +8,8 @@ A continuación, los enlaces a las distintas carpetas de los distintos proyectos
 
 | Nombre del proyecto | Imagen relacionada | Enlace a la carpeta |
 | --- | --- | --- |
-| `git status` | List all *new or modified* files | --- |
-| `git status` | List all *new or modified* files | --- |
-| `git status` | List all *new or modified* files | --- |
-| `git status` | List all *new or modified* files | --- |
-| `git status` | List all *new or modified* files | --- |
+| `Diseño` | List all *new or modified* files | --- |
+| `Electrónica básica` | List all *new or modified* files | --- |
+| `Neumática` | List all *new or modified* files | --- |
+| `Teleco Games` | List all *new or modified* files | --- |
+| `ODS` | List all *new or modified* files | --- |
