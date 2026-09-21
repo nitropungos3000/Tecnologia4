@@ -8,7 +8,7 @@ A continuación, los enlaces a las distintas carpetas de los distintos proyectos
 
 | Nombre del proyecto | Imagen relacionada | Enlace a la carpeta |
 | --- | --- | --- |
-| `Diseño` | List all *new or modified* files | --- |
+| `Diseño` | List all *new or modified* files | (Pincha aquí) [https://github.com/nitropungos3000/Tecnologia4/tree/main/1.%20Dise%C3%B1o] |
 | `Electrónica básica` | List all *new or modified* files | --- |
 | `Neumática` | List all *new or modified* files | --- |
 | `Teleco Games` | List all *new or modified* files | --- |
