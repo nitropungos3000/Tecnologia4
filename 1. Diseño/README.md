@@ -18,3 +18,7 @@ Este primer proyecto en la asignatura de Tecnología se basa en la exposición d
 
 #### ·**Las ideas deben de ser factibles tanto técnicamente como económicamente.**
 
+<p align="center">
+<img src="Imágenes/Mapa tecnológico.jpg" width="400" height="600" />
+</p>
+
