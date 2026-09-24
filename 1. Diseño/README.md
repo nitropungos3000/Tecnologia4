@@ -22,3 +22,4 @@ Este primer proyecto en la asignatura de Tecnología se basa en la exposición d
 <img src="Imágenes/Mapa Tecnología.jpg" width="1000" height="1200" />
 </p>
 
+Justo encima de estas palabras, podemos ver el mapa con el que vamos a trabajar. Como podemos observar, no está completo, faltan los diversos elementos tanto electrónicos como impresos en 3D, ya sean los monumentos de la provincia o los elementos interactivos.
