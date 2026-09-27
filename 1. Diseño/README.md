@@ -18,7 +18,7 @@ Este primer proyecto en la asignatura de Tecnología se basa en la exposición d
 
 #### ·**A su vez, hay que tener conocimiento de que algunos componentes electrónicos pueden averiarse o deteriorarse con el tiempo.** Por lo tanto, el acceso a los componentes y cableado debe ser accesible y rápido. 
 
-#### ·**Esta colocación es permanente,** con esto quiero decir que no está pensado para mostrar un día y guardarlo, si no para estar todo el tiempo en unn mismo lugar.
+#### ·**Esta colocación es permanente,** con esto quiero decir que no está pensado para mostrar un día y guardarlo, si no para estar todo el tiempo en un mismo lugar.
 
 #### ·**Las ideas deben de ser factibles tanto técnicamente como económicamente.**
 
@@ -26,4 +26,6 @@ Este primer proyecto en la asignatura de Tecnología se basa en la exposición d
 <img src="Imágenes/Mapa Tecnología.jpg" width="1000" height="1200" />
 </p>
 
-Justo encima de estas palabras, podemos ver el mapa con el que vamos a trabajar. Como podemos observar, no está completo, faltan los diversos elementos tanto electrónicos como impresos en 3D, ya sean los monumentos de la provincia o los elementos interactivos.
+Justo encima, podemos ver el mapa con el que vamos a trabajar. Como podemos observar, no está completo, faltan los diversos elementos tanto electrónicos como impresos en 3D, ya sean los monumentos de la provincia o los elementos interactivos. Pero la idea base la tenemos, ahora voy a proceder a plantear la idea principal que he tenido, y posteriormente expondré ideas secundarias.
+
+## Idea principal: Exposición en la parte derecha de la entrada a la biblioteca
