@@ -55,3 +55,11 @@ Otro detalle es que se pueda decorar la base como los alumnos que la fabriquemos
 Posteriormente, este documento se completará con la explicación del diseño y la construcción que posteriormente realizaremos con nuestras parejas correspondientes.
 
 ### Ideas secundarias: Posicionado en la parte trasera de la columna del ascensor o en uno de los laterales de esa misma columna
+
+Estas ideas que voy a exponer ahora son más bien secundarias, quedando como principal la anterior explicada. Estas dos ideas se sitúan en la misma columna pero en distintas caras de la misma. Sería hacer básicamente lo mismo que en la anterior idea, solo que cambiando el lugar, con algunos matices a tener en cuenta: 
+
+·En las dos caras laterales de la columna, se encuentran dos corchos, donde están colgados diferentes carteles con información variada e importante, sobre todo para el profesorado, aunque también para el alumnado. Esos corchos se podrían cambiar a otro lugar o directamente descartarlos, teniendo en cuenta que nada más entrar por la puerta principal del instituto hay una pared cubierta de corcho para colgar cualquier elemento. Ahí se podría colocar el mapa, ya es dependiendo de la altura a la que se desea colocar y los diferentes factores que influyan luego en la operación, pero en principio sería la misma idea que la anterior solo que cambiando el lugar de posicionamiento.
+
+·También, está la parte trasera de la columna. Ahí podemos encontrar un problema incluso mayor. Está colocado un cuadro muy importante (del cual no recuerdo qué era, luego lo pondré, no dejaré esto Antonio) que no podemos quitar, pero sí podemos desplazar verticalmente. La columna es bastante alta, y hay dos opciones: subir el cuadro arriba o subir el mapa arriba y dejar el cuadro donde está. Para cualquiera de las dos opciones, habría que colocar un andamio para hacer esta idea, lo que dificulta un poco el tema económico, aunque también se podría estudiar.
+
+(Estas explicaciones de ideas se completarán con imágenes que haremos mañana por la mañana).
