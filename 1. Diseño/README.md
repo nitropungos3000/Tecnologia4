@@ -53,3 +53,5 @@ No sabemos en este momento cómo se podrán interactuar con los diferentes compo
 Otro detalle es que se pueda decorar la base como los alumnos que la fabriquemos y la diseñemos. Así se le daría un toque único y auténtico de los alumnos de Tecnología. 
 
 Posteriormente, este documento se completará con la explicación del diseño y la construcción que posteriormente realizaremos con nuestras parejas correspondientes.
+
+### Ideas secundarias: Posicionado en la parte trasera de la columna del ascensor o en uno de los laterales de esa misma columna
