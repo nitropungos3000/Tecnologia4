@@ -30,4 +30,18 @@ Justo encima, podemos ver el mapa con el que vamos a trabajar. Como podemos obse
 
 ## Idea principal: Exposición en la parte derecha de la entrada a la biblioteca
 
-Para esta primera idea, y la que va a ser mi principal, he pensado en exponer el mapa en la parte derecha de la entrada a la biblioteca. Ahí nos encontramos un corcho, diferentes placas conmemorativas, una estructura en forma de fuente y una vitrina en la que podemos observar diferentes libros y trofeos que ha conseguido el centro en distintas categorías, como por ejemplo en la WRO. Hay diferentes factores a tener en cuenta en la operación: las placas están atornilladas a la pared, lo cual supone un gasto de tiempo y esfuerzo quitarlas de ese lugar, junto con el corcho, que es lo suficientemente grande para que el mapa no encaje correctamente, es decir, que también tenemos que cambiar el sitio del corcho. Al ser bastantes personas no supondrá tanto esfuerzo ya que con la colaboración de todos se hará de forma rápida y coordinada. También,  es un buen luigar de colocación, ya que se encuentra en plena entrada del centro. Se encuentra entre las dos puertas de entrada, lo cual facilita su visión y reconocimiento. Además, es un sitio no muy caluroso y en el que no impacta el sol directamente, un punto a favor si queremos trabajar con materiales que no resistan mucho calor o se deterioren con la exposición a este. 
+Para esta primera idea, y la que va a ser mi principal, he pensado en exponer el mapa en la parte derecha de la entrada a la biblioteca. Ahí nos encontramos un corcho, diferentes placas conmemorativas, una estructura en forma de fuente y una vitrina en la que podemos observar diferentes libros y trofeos que ha conseguido el centro en distintas categorías, como por ejemplo en la WRO. 
+
+Hay diferentes factores a tener en cuenta en la operación: 
+
+·Las placas están atornilladas a la pared, lo cual supone un gasto de tiempo y esfuerzo quitarlas de ese lugar, junto con el corcho, que es lo suficientemente grande para que el mapa no encaje correctamente, es decir, que también tenemos que cambiar el sitio del corcho. 
+
+·Al ser bastantes personas no supondrá tanto esfuerzo ya que con la colaboración de todos se hará de forma rápida y coordinada. 
+
+·También, es un buen lugar de colocación, ya que se encuentra en plena entrada del centro. Se sitúa entre las dos puertas de entrada, lo cual facilita su visión y reconocimiento. 
+
+·Además, es un sitio no muy caluroso y en el que no impacta el sol directamente, un punto a favor si queremos trabajar con materiales que no resistan mucho calor o se deterioren con la exposición a este. 
+
+·Es un emplazamiento bastante accesible para poder colocar los diferentes componentes que se necesiten colocar y para la sustitución o reparación de la electrónica en caso de ser necesario (A tener en cuenta que va a funcionar a pilas, por lo tante tiene que ser lo suficientemente accesible para la carga y reemplazo de estas).
+
+Ahora entremos en detalles. Al estar impreso en 3D en corcho, sabemos que este material no se puede atornillar a la pared, así que hay que buscar alternativas que sean resistentes, ligeras y económicas. La principal alternativa que he pensado es construir, ya sea nosotros en clase o encargarla, una base en forma de caja, que sea resistente y que se adapte a la medida del mapa. Esta caja, sí que podría atornillarse a la pared, ya que sería de un material más resistente, como la madera o algun tipo de metal. En el caso de que sea metal, sería más complicado fabricarla nosotros, pero se podrían pedir presupuestos a carpinteros y elegir las mejores opciones. 
