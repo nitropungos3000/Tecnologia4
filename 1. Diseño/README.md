@@ -33,7 +33,7 @@ Justo encima, podemos ver el mapa con el que vamos a trabajar. Como podemos obse
 Para esta primera idea, y la que va a ser mi principal, he pensado en exponer el mapa en la parte derecha de la entrada a la biblioteca. Ahí nos encontramos un corcho, diferentes placas conmemorativas, una estructura en forma de fuente y una vitrina en la que podemos observar diferentes libros y trofeos que ha conseguido el centro en distintas categorías, como por ejemplo en la WRO. Podemos verlo justo aquí debajo: 
 
 <p align="center">
-<img src="Imágenes/PUERTA BIBLIOTECA.jpg" width="600" height="800" />
+<img src="Imágenes/PUERTA BIBLIOTECA.jpg" width="700" height="900" />
 </p>
 
 Hay diferentes factores a tener en cuenta en la operación: 
