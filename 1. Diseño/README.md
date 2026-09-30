@@ -82,6 +82,10 @@ Ahora, para la sujección a la pared del mapa, vamos a utilizar la base que he m
 
 Nuestro profesor Antonio en la pasada clase nos relacionó con nuestras parejas de trabajo para continuar desarrollando las ideas y aprender a trabajar colaborando y coordinando con un compañero. Mi pareja en esta ocasión es mi compañero y mejor amigo Adrián, con el que anteriormente ya he trabajado con él pero no en esta asignatura. Después de debatir, considerar y decidir durante un par de clases la idea o mezcla de ellas que vamos a escoger, finalmente nos hemos decantado por mi idea. Esto se debe a que nos ha parecido a los dos la idea más factible y viable, teniendo en cuenta los factores de la mía y la suya. Tanto técnicamente como económicamente nos parece la que más se puede ajustar a las indicaciones que nos proporcionó Antonio al explicarnos el proyecto. Su idea era bastante compleja y dificil de elaborar, habría que poner andamio para colocar el mapa donde lo quería poner, además de que era en una zona muy alta donde prácticamente no se podría apreciar. Ahora, voy a explicar la idea final que hemos decidido entre los dos y algunos matices que hemos añadido por decisión de los dos.
 
+·La ubicación de la colocación del mapa será en el mismo lugar, la parte derecha de la entrada a la biblioteca, donde está la vitrina con los trofeos, el corcho y las placas. Se descolgarán el corcho y las placas, y se colocarán en otro sitio, pensando también que el corcho se puede guardar directamente en vez de colgarlo en otro lugar. 
+
+·Se atornillarán a la pared unos ganchos de pared en forma de U que sujetarán el mapa de la manera que explicaré ahora. Se harán agujeros en la pared y se colocarán unos tacos para poder atornillar los ganchos. Podemos observarlos justo debajo:
+
 
 
 
