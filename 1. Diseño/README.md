@@ -78,6 +78,6 @@ Ahora, para la sujección a la pared del mapa, vamos a utilizar la base que he m
 
 
 
-## Progresión de las ideas pero ahora con tu pareja de trabajo
+## Diseño del montaje con tu compañero
 
-Nuestro profesor Antonio en la pasada clase nos relacionó con nuestras parejas de trabajo para continuar desarrollando las ideas y aprender a trabajar colaborando y coordinando con un compañero. Mi pareja en esta ocasión es mi compañero y mejor amigo Adrián, con el que anteriormente ya he trabajado con él pero no en esta asignatura. Estamos actualmente en el proceso de selección de las características de cada una de las ideas de cada uno, pero de momento hay algunas elecciones que ya hemos realizado, procedentes de mi idea principal.
+Nuestro profesor Antonio en la pasada clase nos relacionó con nuestras parejas de trabajo para continuar desarrollando las ideas y aprender a trabajar colaborando y coordinando con un compañero. Mi pareja en esta ocasión es mi compañero y mejor amigo Adrián, con el que anteriormente ya he trabajado con él pero no en esta asignatura. Después de debatir, considerar y decidir durante un par de clases la idea o mezcla de ellas que vamos a escoger, finalmente nos hemos decantado por mi idea. Esto se debe a que nos ha parecido a los dos la idea más factible y viable, teniendo en cuenta los factores de la mía y la suya. Tanto técnicamente como económicamente nos parece la que más se puede ajustar a las indicaciones que nos proporcionó Antonio al explicarnos el proyecto. Su idea era bastante compleja y dificil de elaborar, habría que poner andamio para colocar el mapa donde lo quería poner, además de que era en una zona muy alta donde prácticamente no se podría apreciar. 
