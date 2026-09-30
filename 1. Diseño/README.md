@@ -86,6 +86,10 @@ Nuestro profesor Antonio en la pasada clase nos relacionó con nuestras parejas 
 
 ·Se atornillarán a la pared unos ganchos de pared en forma de U que sujetarán el mapa de la manera que explicaré ahora. Se harán agujeros en la pared y se colocarán unos tacos para poder atornillar los ganchos. Podemos observarlos justo debajo:
 
+<p align="center">
+<img src="Imágenes/PERFILES ENGANCHES EN U PARA EL MAPA.jpg" width="800" height="800" />
+</p>
+
 
 
 
