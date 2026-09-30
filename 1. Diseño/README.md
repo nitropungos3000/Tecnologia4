@@ -93,7 +93,7 @@ Nuestro profesor Antonio en la pasada clase nos relacionó con nuestras parejas 
 ·Se elaborará con listones de madera la forma del contorno del mapa, no siguiendo exactamente su relieve, pero si su forma. Posteriormente se verá mejor con el diseño en Tinkercad. Detrás del mapa y los listones se colocará una base de madera u otro material en la que poder acoplar un perfil en U que se enganche con los ganchos de la pared que he mencionado antes. Podemos ver un ejemplo aquí:
 
 <p align="center">
-<img src="Imágenes/PERFIL EN U PARA EL MAPA.jpg" width="800" height="800" />
+<img src="Imágenes/PERFIL EN U.jpg" width="800" height="800" />
 </p>
 
 
