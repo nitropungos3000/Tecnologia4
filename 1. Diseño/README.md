@@ -96,6 +96,7 @@ Nuestro profesor Antonio en la pasada clase nos relacionó con nuestras parejas 
 <img src="Imágenes/PERFIL EN U.jpg" width="800" height="800" />
 </p>
 
+·A continuación, proporciono una imagen que al pulsar te dirige a mi diseño en tinkercad del mapa con su base, enganches y perfiles, a escala 1:10. Pincha debajo para acceder:
 
 [![Diseño del Mapa](Imágenes/Diseño%20del%20Mapa%20Tecnológico%20de%20la%20Provincia%20de%20Jaén.png)](https://www.tinkercad.com/things/gMI0aALpTmg-diseno-del-mapa-tecnologico-de-la-provincia-de-jaen/edit?returnTo=%2Fdashboard%2Fdesigns%2F3d)
 
