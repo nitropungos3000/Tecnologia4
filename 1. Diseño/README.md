@@ -75,13 +75,19 @@ Tras la exposición oral bastante rápida de nuestras ideas, he llegado a la con
 Ahora, voy a proceder a explicar la idea modificada. La idea principal va a ser muy parecida, pero con algunos cambios importantes que parecen insignificantes pero le dan una vuelta de tuerca al proyecto. La posición del mapa será la misma, la parte derecha de la entrada a la biblioteca. Es una zona muy accesible, donde todo el mundo lo verá ya que está entre las dos entradas y donde no da el sol, por si en algún momento utilizamos un material que no sea muy resistente al calor. En mi opinión, es en la mejor posición en la que se puede colocar. Ahora, para la caja o base del mapa, cambia también. En vez de hacer una forma rectangular o una siguiendo la forma exacta del mapa, se va a seguir la forma, pero de diferente manera. Se va a seguir la forma del mapa, pero de forma que el material con el que se haga la base se encuentre recto. En el caso de que sean listones de madera, se conectarán por los extremos de forma diagonal, como podemos ver justo debajo. También tendrá un fondo de madera con un agujero donde empujar el mapa para poder extraerlo.
 
 <p align="center">
-<img src="Imágenes/Unión listones de maera.jpeg" width="600" height="800" />
+<img src="Imágenes/Unión listones de maera.jpeg" width="500" height="800" />
 </p>
 
 
+Ahora, para la sujección a la pared del mapa, vamos a utilizar la base que he mencionado antes, pero cambiando la forma que dije en la anterior idea principal. Se van a utilizar unos enganches en forma de semi u de metal que se engancharán bien en unos peqeños orificios que hagamos en el fondo de madera de la base o en una pieza de metal que se coplará a la base, la cual podemos ver aquí, los perfiles y los enganches:
 
+<p align="center">
+<img src="Imágenes/PERFILES ENGANCHES EN U PARA EL MAPA.jpg" width="800" height="800" />
+</p>
 
-Ahora, para la sujección a la pared del mapa, vamos a utilizar la base que he mencionado antes, pero cambiando la forma que dije en la anterior idea principal. Se van a utilizar unos enganches en forma de semi u de metal que se engancharán bien en unos peqeños orificios que hagamos en el fondo de madera de la base o en una pieza de metal que se coplará a la base, la cual podemos ver aquí:
+<p align="center">
+<img src="Imágenes/PERFIL EN U.jpg" width="800" height="800" />
+</p>
 
 
 
