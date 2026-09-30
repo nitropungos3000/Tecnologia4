@@ -97,7 +97,8 @@ Nuestro profesor Antonio en la pasada clase nos relacionó con nuestras parejas 
 </p>
 
 
-[![](Imágenes/Diseño del Mapa Tecnológico de la Provincia de Jaén.png)][https://www.tinkercad.com/things/gMI0aALpTmg-diseno-del-mapa-tecnologico-de-la-provincia-de-jaen/edit?returnTo=%2Fdashboard%2Fdesigns%2F3d]
+[![Diseño del Mapa](Imágenes/Diseño%20del%20Mapa%20Tecnológico%20de%20la%20Provincia%20de%20Jaén.png)](https://www.tinkercad.com/things/gMI0aALpTmg-diseno-del-mapa-tecnologico-de-la-provincia-de-jaen/edit?returnTo=%2Fdashboard%2Fdesigns%2F3d)
+
 
 
 
