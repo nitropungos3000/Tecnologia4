@@ -33,7 +33,11 @@ Después, tenemos a los sensores de infrarrojos, humedad, temperatura y ultrason
 
 Digamos que estos componentes que voy a explicar ahora son provisionalmente opcionales. Me explico, las mini placas solares, el módulo de gestión de la carga de estas, además de la placa que las controle, solo se van a utilizar en caso de que el presupuesto nos lo permita. En los Teleco Games, el presupuesto máximo que tenemos para realizar nuestrto proyecto, incluyendo todos los componentes (aunque los tengamos en el centro) a valor de mercado, es de 200€. Tales como la impresora o la cortadora láser no se contarían porque de por sí sobrepasan el presupuesto con creces, se utilizan para realizar otros componentes que si están presentes en el proyecto. Cone esto quiero decir que, si se sobrepasa del presupuesto, se utilizaría sencillamente un portapilas con sus correspondientes pilas, y cuando se estén acabando sin carga se recargan y se cambian. La ventaja que tienen estas placas es que automatizas del todo el proyecto, pero tammbién pueden ser caras y sobrepasarse del presupuesto. Ya en tal caso deberíamos de seleccionar los componentes imprescindibles y los que podemos omitir. 
 
-Para finalizar, tenemos la cortadora láser y la impresora 3D. Los modelos de cada cosa los completaré posteriormente porque no tengo idea de las que se encuentran en el centro, pero nos van a ayudar a imprimir nuestros diseños en 3D y a cortar nuestra madera de forma más sencilla. Los diseños en 3D se imprimen con la impresora 3D y la madera se corta y se trabaja con la cortadora láser.
+Para finalizar, tenemos la cortadora láser y la impresora 3D. Los modelos de cada cosa los completaré posteriormente porque no tengo idea de las que se encuentran en el centro, pero nos van a ayudar a imprimir nuestros diseños en 3D y a cortar nuestra madera de forma más sencilla. Los diseños en 3D se imprimen con la impresora 3D y la madera se corta y se trabaja con la cortadora láser. 
+
+Ahora bien, es necesario tener un sistema de ciberseguridad. Lo principal seguridad que se utilizaría aquí sería un usuario y una contraseña en una página web. Quiero decir, se utilizaría una página web en la que se puedan ver en tiempo real los valores que leen
+
+
 
 ## 2 parte del proyecto: Elección de ideas entre parejas
 
