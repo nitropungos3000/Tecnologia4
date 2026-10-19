@@ -11,7 +11,7 @@ Los grupos son los siguientes:
 | Nombre del equipo | Integrantes |
 | --- | --- |
 | ``Error 404-Cerebro no encontrado`` | Lorenzo Manuel Latorre Martínez, Noah Lee Aguilar Schneider, Guillermo Cuesta Luque y Marco Fernández Manzaneda |
-| ``No tengo ni la más remota idea`` | Alejandro Reyes Delgado, Adrián Ordóñez Hernández, Daniel Boyano Lomas y Alberto Piñar López |
+| ``Los Hacker-Crusstácos`` | Alejandro Reyes Delgado, Adrián Ordóñez Hernández, Daniel Boyano Lomas y Alberto Piñar López |
 
 ## 1ª parte del proyecto: Desarrollo individual de una idea inicial
 
