@@ -11,7 +11,7 @@ Los grupos son los siguientes:
 | Nombre del equipo | Integrantes |
 | --- | --- |
 | ``Error 404-Cerebro no encontrado`` | Lorenzo Manuel Latorre Martínez, Noah Lee Aguilar Schneider, Guillermo Cuesta Luque y Marco Fernández Manzaneda |
-| ``Los Hacker-Crusstácos`` | Alejandro Reyes Delgado, Adrián Ordóñez Hernández, Daniel Boyano Lomas y Alberto Piñar López |
+| ``Los Hacker-Crustáceos`` | Alejandro Reyes Delgado, Adrián Ordóñez Hernández, Daniel Boyano Lomas y Alberto Piñar López |
 
 ## 1ª parte del proyecto: Desarrollo individual de una idea inicial
 
@@ -35,7 +35,9 @@ Digamos que estos componentes que voy a explicar ahora son provisionalmente opci
 
 Para finalizar, tenemos la cortadora láser y la impresora 3D. Los modelos de cada cosa los completaré posteriormente porque no tengo idea de las que se encuentran en el centro, pero nos van a ayudar a imprimir nuestros diseños en 3D y a cortar nuestra madera de forma más sencilla. Los diseños en 3D se imprimen con la impresora 3D y la madera se corta y se trabaja con la cortadora láser. 
 
-Ahora bien, es necesario tener un sistema de ciberseguridad. Lo principal seguridad que se utilizaría aquí sería un usuario y una contraseña en una página web. Quiero decir, se utilizaría una página web en la que se puedan ver en tiempo real los valores que leen
+Ahora bien, es necesario tener un sistema de ciberseguridad. Lo principal seguridad que se utilizaría aquí sería un usuario y una contraseña en una página web. Quiero decir, se utilizaría una página web en la que se puedan ver en tiempo real los valores que leen los diferentes sensores, a la que solo podrían acceder usuarios autorizados. También he pensado en implementar un sistema de lectura de una llave física, como un chip NFC o una llave de seguridad USB, como las que utilizamos para acceder por ejemplo a nuestras cuentas de Google.
+
+## 2º parte del proyecto: Elección grupal de la idea a desarrollar.
 
 
 
