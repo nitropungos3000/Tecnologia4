@@ -38,9 +38,3 @@ Para finalizar, tenemos la cortadora láser y la impresora 3D. Los modelos de ca
 Ahora bien, es necesario tener un sistema de ciberseguridad. Lo principal seguridad que se utilizaría aquí sería un usuario y una contraseña en una página web. Quiero decir, se utilizaría una página web en la que se puedan ver en tiempo real los valores que leen los diferentes sensores, a la que solo podrían acceder usuarios autorizados. También he pensado en implementar un sistema de lectura de una llave física, como un chip NFC o una llave de seguridad USB, como las que utilizamos para acceder por ejemplo a nuestras cuentas de Google.
 
 ## 2º parte del proyecto: Elección grupal de la idea a desarrollar.
-
-
-
-## 2 parte del proyecto: Elección de ideas entre parejas
-
-## 3 parte del proyecto: Elección de la idea final en gran grupo
