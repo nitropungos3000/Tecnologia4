@@ -61,7 +61,7 @@ Aquí tenemos una tabla con los diferentes componentes y materiales que se van a
 
 | Materiales y componentes | Función |
 | --- | ---| 
-| ``Sensor de movimiento`` | |
+| ``Sensor de movimiento`` | Este se va a encargar de detectar cuando entra o sale un pájaro de la caseta. Solo tiene dos valores, ``HIGH`` o ``LOW`` |
 | ``Sensor de temperatura y humedad`` | |
 | ``Sensor ultrasonido`` | |
 | ``Sensor de presión`` | |
