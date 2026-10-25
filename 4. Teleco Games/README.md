@@ -39,7 +39,7 @@ Ahora bien, es necesario tener un sistema de ciberseguridad. Lo principal seguri
 
 ## 2º parte del proyecto: Elección grupal de la idea a desarrollar.
 
-Después de  debatir sobre las diferentes ideas del grupo, finalmente nos hemos decantado por mi idea, la caseta inteligente para pájaros. Hemos modificado y añadido diferentes elementos pensando en la posibilidad de poder montar tanto técnicamente como económiocamente el proycto. 
+Después de debatir sobre las diferentes ideas del grupo, finalmente nos hemos decantado por mi idea, la caseta inteligente para pájaros. Hemos modificado y añadido diferentes elementos pensando en la posibilidad de poder montar tanto técnicamente como económiocamente el proycto. 
 
 Como primera fase de desarrollo, propusimos las medidas, para nosotros ideales, que debería de tener la caseta. En principio, va a ser cuadrada, con 25x25x25 cm (iguales medidas para anchura, altura y profundidad), con una puerta en forma circular de 12 cm de diámetro y un techo de 8 cm de altura en forma de triángulo sin base, como las típicas casitas de los cuentos. 
 
@@ -61,5 +61,7 @@ Aquí tenemos una tabla con los diferentes componentes y materiales que se van a
 
 | Materiales y componentes | Función |
 | --- | ---| 
+
+Para poder controlar los diferentes valores que recibamos de la caseta, hemos pensado en crear una página web, a la que la placa va a enviar todos esos valores. Se va a comunicar por Wi-Fi, al estar disponible ya que en el centro tenemos y también porque tiene un mayor rango que el Bluetooth. Esta página web en cuestión va a tener diferentes apartados donde vamos a poder concocer la temperatura y el nivel de humedad, la cantidad de comida que hay en el dispensador, el nivel de agua que que tiene el dispensador o el depósito, la cantidad de comida que hay en el comedero... En general, todos los valores se van a poder ver aquí. No todo el mundo va a poder acceder a la página web, solo usuarios autorizados que accedan a ella mediante un usuario y una contraseña o una llave de seguridad física (ya sea una llave USB o un chip NFC). 
 
 
