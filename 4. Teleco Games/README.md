@@ -53,3 +53,13 @@ El techo debe de tener una serie de agujeros para que los sensores puedan detect
 
 ·El sensor de movimiento se va a posicionar con un soporte justo en la entrada de la caseta, un poco escondido para que el pájaro no se percate de él. Como su propio nombre indica, se va a encargar de detectar el movimiento del pájaro al entrar y salir de la caseta. Según Antonio, va a ser un poco complejo de calibrar, pero una vez realizada la calibración, no hará falta hacer más nada. Este va a ir sujeto a la parte de dentro de la puerta, lo más pegado posible a la pared para que sea lo menos visible posible. 
 
+El emplazamiento que se había pensado principalmente para la caseta en el instituto va a seguir así, pero hay que pensar dónde exactamente. Hemos debatido ideas yu pensado que en el mejor lugar donde se puede colocar es a la entrada del instituto, donde se encuentran los diferentes árboles o donde se encuentra la pista de fútbol, en la parte trasera del centro. Posterior a los Teleco Games, se estudiará la idea y se decidirá un sitio fijo.
+
+Para que los cables no estén a la vista de los pájaros, se imprimirán una serie de canaletas en las que se encuentren dentro los cables. Principalmente, va a ir dirigido al servomotor del dispensador de comida y al sensor de movimiento
+
+Aquí tenemos una tabla con los diferentes componentes y materiales que se van a utilizar para este proyecto, explicando también la función que va a tener cada uno: 
+
+| Materiales y componentes | Función |
+| --- | ---| 
+
+
