@@ -69,7 +69,7 @@ Aquí tenemos una tabla con los diferentes componentes y materiales que se van a
 | ``Placa ESP32 Plus`` | Se va a encargar de controlar todos los componentes, absolutamente todos.|
 | ``Depósito-dispensador de comida`` | Este es el que va a tener la comida dentro. No tendrá tapa, para que el ultrasonido detecte la cantidad de comida. |
 | ``Sensor de nivel de agua (x2)`` | Detectará el nivel de agua que tiene tanto el dispensador de agua como el depósito. |
-| ``Dispensador de agua`` | |
+| ``Dispensador de agua`` | Ahí se encontrará el agua después de haber pasado por la bomba y el tubo y será de donde directamente beba el pájaro el agua. |
 | ``Bomba de agua+tubo`` | La bomba de agua se encargará de recebar el agua a través del tubo en el dispensador de agua. |
 | ``Depósito donde guardar el agua`` | Se encargará de guardar el agua que posteriormente va dirigida al dispensador.  |
 | ``Cables`` | Conectarán todos los componentes a la placa. |
