@@ -84,6 +84,17 @@ Para poder controlar los diferentes valores que recibamos de la caseta, hemos pe
 ## Diseño en papel de la caseta
 Nuestro compañero Guillermo se ha encargado de realizar un boceto sencillo de la caseta. Aunque sea sencillo, está bastante claro y algunos lugares de los componentes pueden ser definitivos. Aquí debajo podemos ver el diseño:
 
+<p align="center">
+<img src="Imágenes/DISEÑO CASETA PAPEL.png" width="300" height="500" />
+</p>
+
+## Diseño de la caseta en Tinkercad
+Por mi parte, he realizado una maqueta en Tinkercad de la caseta a escala real. Por aquí debajo podemos ver como tenemos la puerta, la caseta y el tejado donde vamos a guardar los componentes. Posteriormente, el diseño y la colocación de los componentes será mucho más exacto en el futuro. Podemos verla aquí:
+
+<p align="center">
+<img src="Imágenes/Angry Birds.png" width="700" height="500" />
+</p>
+
 
 
 
