@@ -58,7 +58,7 @@ Aquí tenemos una tabla con los diferentes componentes y materiales que se van a
 
 | Materiales, componentes y dispositivos de fabricación | Función |
 | --- | ---| 
-| ``Sensor de movimiento`` | Este se va a encargar de detectar cuando entra o sale un pájaro de la caseta. Solo tiene dos valores, ``HIGH`` o ``LOW``. |
+| ``Sensor de movimiento (PIR)`` | Este se va a encargar de detectar cuando entra o sale un pájaro de la caseta. Solo tiene dos valores, ``HIGH`` o ``LOW``. |
 | ``Sensor de temperatura y humedad`` | Como dice su nombre, este va a detectar la temperatura y la humedad, la calidad de la caseta y de como se va a encontrar dentro el pájaro de la caseta. |
 | ``Sensor ultrasonido`` | Se va a encargar de detectar la cantidad de la comida en función de la distancia que lea. Si detecta que hay mucha distancia, mandará la señal de rellenar el dispensador. |
 | ``Sensor de presión`` | Detectará la cantidad de comida que se encuentra en el comedero. Si detecta que hay mucha comida, le dirá al servomotor que no eche comida, y si hay poca, le dirá que eche. |
