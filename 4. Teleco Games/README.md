@@ -61,39 +61,22 @@ Aquí tenemos una tabla con los diferentes componentes y materiales que se van a
 
 | Materiales, componentes y dispositivos de fabricación | Función | Imagen de cada uno de los componentes |
 | --- | ---| --- |
-| ``Sensor de movimiento (PIR)`` | Este se va a encargar de detectar cuando entra o sale un pájaro de la caseta. Solo tiene dos valores, ``HIGH`` o ``LOW``. | <p align="center">
-<img src="Imágenes/SENSOR PIR.jpg" width="300" height="500" />
-</p> |
-
-| ``Sensor de temperatura y humedad`` | Como dice su nombre, este va a detectar la temperatura y la humedad, la calidad de la caseta y de como se va a encontrar dentro el pájaro de la caseta. | <p align="center">
-<img src="Imágenes/SENSOR TEMPERATURA HUMEDAD.jpeg" width="300" height="500" />
-</p> |
-
-| ``Sensor ultrasonido`` | Se va a encargar de detectar la cantidad de la comida en función de la distancia que lea. Si detecta que hay mucha distancia, mandará la señal de rellenar el dispensador. | <p align="center">
-<img src="Imágenes/SENSOR ULTRASONIDO.jpg" width="300" height="500" />
-</p> |
-
-| ``Sensor de presión`` | Detectará la cantidad de comida que se encuentra en el comedero. Si detecta que hay mucha comida, le dirá al servomotor que no eche comida, y si hay poca, le dirá que eche. | <p align="center">
-<img src="Imágenes/SENSOR DE PRESIÓN.jpeg" width="300" height="500" />
-</p> |
-
-| ``Servomotor`` | Se encargará de regular la trampilla que dejará pasar la comida. Estará regulado casi en su totalidad por el sensor de ultrasonido y de presión. | <p align="center">
-<img src="Imágenes/SERVOMOTOR.jpg" width="300" height="500" />
-</p> |
-
-| ``Placa ESP32 Plus`` | Se va a encargar de controlar todos los componentes, absolutamente todos.| <p align="center"> <img src="Imágenes/PLACA ESP32 PLUS.png" width="300" height="500" /> </p> |
-
-| ``Depósito-dispensador de comida`` | Este es el que va a tener la comida dentro. No tendrá tapa, para que el ultrasonido detecte la cantidad de comida. | <p align="center"> <img src="Imágenes/DISPENSADOR COMIDA.jpeg" width="300" height="500" /> </p> |
-
-| ``Sensor de nivel de agua (x2)`` | Detectará el nivel de agua que tiene tanto el dispensador de agua como el depósito. |
-| ``Dispensador de agua`` | Ahí se encontrará el agua después de haber pasado por la bomba y el tubo y será de donde directamente beba el pájaro el agua. |
-| ``Bomba de agua+tubo`` | La bomba de agua se encargará de recebar el agua a través del tubo en el dispensador de agua. |
-| ``Depósito donde guardar el agua`` | Se encargará de guardar el agua que posteriormente va dirigida al dispensador.  |
-| ``Cables`` | Conectarán todos los componentes a la placa. |
-| ``Madera contrachapada`` | Material que utilizaremos para crear la estructura de la caseta. | 
-| ``Filamento`` | Material del que ya veremos el tipo que utilizaremos para imprimir las estructuras que deseemos en 3D. |
-| ``Cortadora láser`` | Nos ayudará a crear y cortar la madera congtrachapada para la estructura de la caseta. |
-| ``Impresora 3D`` | Imprimirá las canaletas de los cables y otros elementos (como el dispensador de comida y agua). |
+| ``Sensor de movimiento (PIR)`` | Este se va a encargar de detectar cuando entra o sale un pájaro de la caseta. Solo tiene dos valores, ``HIGH`` o ``LOW``. | <img src="Imágenes/SENSOR PIR.jpg" width="300" height="500" />|
+| ``Sensor de temperatura y humedad`` | Como dice su nombre, este va a detectar la temperatura y la humedad, la calidad de la caseta y de como se va a encontrar dentro el pájaro de la caseta. | <img src="Imágenes/SENSOR TEMPERATURA HUMEDAD.jpeg" width="300" height="500" /> |
+| ``Sensor ultrasonido`` | Se va a encargar de detectar la cantidad de la comida en función de la distancia que lea. Si detecta que hay mucha distancia, mandará la señal de rellenar el dispensador. | <img src="Imágenes/SENSOR ULTRASONIDO.jpg" width="300" height="500" /> |
+| ``Sensor de presión`` | Detectará la cantidad de comida que se encuentra en el comedero. Si detecta que hay mucha comida, le dirá al servomotor que no eche comida, y si hay poca, le dirá que eche. | <img src="Imágenes/SENSOR DE PRESIÓN.jpeg" width="300" height="500" /> |
+| ``Servomotor`` | Se encargará de regular la trampilla que dejará pasar la comida. Estará regulado casi en su totalidad por el sensor de ultrasonido y de presión. | <img src="Imágenes/SERVOMOTOR.jpg" width="300" height="500" /> |
+| ``Placa ESP32 Plus`` | Se va a encargar de controlar todos los componentes, absolutamente todos.| <img src="Imágenes/PLACA ESP32 PLUS.png" width="300" height="500" /> |
+| ``Depósito-dispensador de comida`` | Este es el que va a tener la comida dentro. No tendrá tapa, para que el ultrasonido detecte la cantidad de comida. | <img src="Imágenes/DISPENSADOR COMIDA.jpeg" width="300" height="500" /> |
+| ``Sensor de nivel de agua (x2)`` | Detectará el nivel de agua que tiene tanto el dispensador de agua como el depósito. | <img src="Imágenes/SENSOR DE NIVEL DE AGUA.jpg" width="300" height="500" /> |
+| ``Dispensador de agua`` | Ahí se encontrará el agua después de haber pasado por la bomba y el tubo y será de donde directamente beba el pájaro el agua. | <img src="Imágenes/BEBEDERO DE AGUA.jpg" width="300" height="500" /> |
+| ``Bomba de agua+tubo`` | La bomba de agua se encargará de recebar el agua a través del tubo en el dispensador de agua. | <img src="Imágenes/BOMBA DE AGUA.jpg" width="300" height="500" /> <img src="Imágenes/TUBO BOMBA DE AGUA.jpg" width="300" height="500" /> |
+| ``Depósito donde guardar el agua`` | Se encargará de guardar el agua que posteriormente va dirigida al dispensador. | <img src="Imágenes/GARRAFA DE AGUA.jpg" width="300" height="500" /> |
+| ``Cables`` | Conectarán todos los componentes a la placa. | <img src="Imágenes/CABLES ARDUINO.jpg" width="300" height="500" /> |
+| ``Madera contrachapada`` | Material que utilizaremos para crear la estructura de la caseta. | <img src="Imágenes/MADERA CONTRACHAPADA.jpg" width="300" height="500" /> |
+| ``Filamento`` | Material del que ya veremos el tipo que utilizaremos para imprimir las estructuras que deseemos en 3D. | <img src="Imágenes/FILAMENTO.jpg" width="300" height="500" /> |
+| ``Cortadora láser`` | Nos ayudará a crear y cortar la madera congtrachapada para la estructura de la caseta. | <img src="Imágenes/CORTADORA LÁSER.jpg" width="300" height="500" /> |
+| ``Impresora 3D`` | Imprimirá las canaletas de los cables y otros elementos (como el dispensador de comida y agua). | <img src="Imágenes/BAMBULABP1S.png" width="300" height="500" /> |
 
 ## Ciberseguridad y página web
 Para poder controlar los diferentes valores que recibamos de la caseta, hemos pensado en crear una página web, a la que la placa va a enviar todos esos valores. Se va a comunicar por Wi-Fi, al estar disponible ya que en el centro tenemos y también porque tiene un mayor rango que el Bluetooth. Esta página web en cuestión va a tener diferentes apartados donde vamos a poder concocer la temperatura y el nivel de humedad, la cantidad de comida que hay en el dispensador, el nivel de agua que que tiene el dispensador o el depósito, la cantidad de comida que hay en el comedero, etc. En general, todos los valores se van a poder ver aquí. No todo el mundo va a poder acceder a la página web, solo usuarios autorizados que accedan a ella mediante un usuario y una contraseña o una llave de seguridad física (ya sea una llave USB o un chip NFC). 
