@@ -95,6 +95,7 @@ Por mi parte, he realizado una maqueta en Tinkercad de la caseta a escala real. 
 <img src="Imágenes/Angry Birds.png" width="700" height="500" />
 </p>
 
+Posteriormente se completará este apartado del proyecto conforme vayamos trabajando en él a lo largo del curso. 
 
 
 
