@@ -122,8 +122,17 @@ Nuestro profesor Antonio en la pasada clase nos relacionó con nuestras parejas 
 
 ## Decisión final del montaje del mapa
 
+Después de debatir todo el grupo sobre las diferentes propuestas que hemos realizado los alumnos, se ha tomado una decisión final. Vamos a dividirla en varias partes:
 
+·El lugar donde se va a colocar el mapa es donde se encuentra el actual "Espacio Erasmus+", justo en la parte derecha de la entrada a la biblioteca. Con esto quiere decir que finalmente nos hemos decantado por el lugar que había propuesto yo. Se ha decidido así gracias a que es donde tendría más visibilidad, está justo entre las dos entradas posibles al instituto, independientemente del lugar hacia donde te dirijas, vas a ver el mapa y te vas a percatar de que está presente, que está ahí. El actual "Espacio Erasmus+" se trasladará a un mismo corcho, que se encontrará en la parte derecha de la entrada al antiguo Aula de Robótica. 
 
+·Para el método de sujección, se ha decidido que la mejor manera es adjuntar dos cuñas, provisionalmente de madera, para que la tabla de madera donde se coloque el mapa esté un poco inclinada para su mejoría en la visibilidad. El mapa no se va a pegar directamente a la tabla, si no que se van a utilizar una especie de soportes en forma de semi U y en forma de S. Estos se colocarían en distintos puntos claves del mapa, algunos fijos a la tabla, para que la extracción del mapa en caso de situación de reparación sea más sencilla. En la parte izquierda, los soportes deberán de ser obligatoriamente una S para su desacople, ya que el mapa se va a introducir por esa parte, además de extraerlo deslizándolo hacia la izquierda. Estos soportes van a quedar sujetos a la tabla mediante tornillos. 
+
+Justo debajo podemos ver dos imágenes que nos muestran los dos tipos de soportes, además de un ejemplo de cuñas que se pueden utilizar para la inclinación del mapa: 
+
+<p align="center">
+<img src="Imágenes/PIEZA SUJECCIÓN MAPA.png" width="700" height="600" />
+</p>
 
 
 
