@@ -61,13 +61,30 @@ Aquí tenemos una tabla con los diferentes componentes y materiales que se van a
 
 | Materiales, componentes y dispositivos de fabricación | Función | Imagen de cada uno de los componentes |
 | --- | ---| --- |
-| ``Sensor de movimiento (PIR)`` | Este se va a encargar de detectar cuando entra o sale un pájaro de la caseta. Solo tiene dos valores, ``HIGH`` o ``LOW``. |
-| ``Sensor de temperatura y humedad`` | Como dice su nombre, este va a detectar la temperatura y la humedad, la calidad de la caseta y de como se va a encontrar dentro el pájaro de la caseta. |
-| ``Sensor ultrasonido`` | Se va a encargar de detectar la cantidad de la comida en función de la distancia que lea. Si detecta que hay mucha distancia, mandará la señal de rellenar el dispensador. |
-| ``Sensor de presión`` | Detectará la cantidad de comida que se encuentra en el comedero. Si detecta que hay mucha comida, le dirá al servomotor que no eche comida, y si hay poca, le dirá que eche. |
-| ``Servomotor`` | Se encargará de regular la trampilla que dejará pasar la comida. Estará regulado casi en su totalidad por el sensor de ultrasonido y de presión. |
-| ``Placa ESP32 Plus`` | Se va a encargar de controlar todos los componentes, absolutamente todos.|
-| ``Depósito-dispensador de comida`` | Este es el que va a tener la comida dentro. No tendrá tapa, para que el ultrasonido detecte la cantidad de comida. |
+| ``Sensor de movimiento (PIR)`` | Este se va a encargar de detectar cuando entra o sale un pájaro de la caseta. Solo tiene dos valores, ``HIGH`` o ``LOW``. | <p align="center">
+<img src="Imágenes/SENSOR PIR.jpg" width="300" height="500" />
+</p> |
+
+| ``Sensor de temperatura y humedad`` | Como dice su nombre, este va a detectar la temperatura y la humedad, la calidad de la caseta y de como se va a encontrar dentro el pájaro de la caseta. | <p align="center">
+<img src="Imágenes/SENSOR TEMPERATURA HUMEDAD.jpeg" width="300" height="500" />
+</p> |
+
+| ``Sensor ultrasonido`` | Se va a encargar de detectar la cantidad de la comida en función de la distancia que lea. Si detecta que hay mucha distancia, mandará la señal de rellenar el dispensador. | <p align="center">
+<img src="Imágenes/SENSOR ULTRASONIDO.jpg" width="300" height="500" />
+</p> |
+
+| ``Sensor de presión`` | Detectará la cantidad de comida que se encuentra en el comedero. Si detecta que hay mucha comida, le dirá al servomotor que no eche comida, y si hay poca, le dirá que eche. | <p align="center">
+<img src="Imágenes/SENSOR DE PRESIÓN.jpeg" width="300" height="500" />
+</p> |
+
+| ``Servomotor`` | Se encargará de regular la trampilla que dejará pasar la comida. Estará regulado casi en su totalidad por el sensor de ultrasonido y de presión. | <p align="center">
+<img src="Imágenes/SERVOMOTOR.jpg" width="300" height="500" />
+</p> |
+
+| ``Placa ESP32 Plus`` | Se va a encargar de controlar todos los componentes, absolutamente todos.| <p align="center"> <img src="Imágenes/PLACA ESP32 PLUS.png" width="300" height="500" /> </p> |
+
+| ``Depósito-dispensador de comida`` | Este es el que va a tener la comida dentro. No tendrá tapa, para que el ultrasonido detecte la cantidad de comida. | <p align="center"> <img src="Imágenes/DISPENSADOR COMIDA.jpeg" width="300" height="500" /> </p> |
+
 | ``Sensor de nivel de agua (x2)`` | Detectará el nivel de agua que tiene tanto el dispensador de agua como el depósito. |
 | ``Dispensador de agua`` | Ahí se encontrará el agua después de haber pasado por la bomba y el tubo y será de donde directamente beba el pájaro el agua. |
 | ``Bomba de agua+tubo`` | La bomba de agua se encargará de recebar el agua a través del tubo en el dispensador de agua. |
