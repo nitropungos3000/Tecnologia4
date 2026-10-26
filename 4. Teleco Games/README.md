@@ -59,8 +59,8 @@ Para que los cables no estén a la vista de los pájaros, se imprimirán una ser
 ## Tabla de componentes, materiales y dispositivos de fabricación
 Aquí tenemos una tabla con los diferentes componentes y materiales que se van a utilizar para este proyecto, explicando también la función que va a tener cada uno: 
 
-| Materiales, componentes y dispositivos de fabricación | Función |
-| --- | ---| 
+| Materiales, componentes y dispositivos de fabricación | Función | Imagen de cada uno de los componentes |
+| --- | ---| --- |
 | ``Sensor de movimiento (PIR)`` | Este se va a encargar de detectar cuando entra o sale un pájaro de la caseta. Solo tiene dos valores, ``HIGH`` o ``LOW``. |
 | ``Sensor de temperatura y humedad`` | Como dice su nombre, este va a detectar la temperatura y la humedad, la calidad de la caseta y de como se va a encontrar dentro el pájaro de la caseta. |
 | ``Sensor ultrasonido`` | Se va a encargar de detectar la cantidad de la comida en función de la distancia que lea. Si detecta que hay mucha distancia, mandará la señal de rellenar el dispensador. |
