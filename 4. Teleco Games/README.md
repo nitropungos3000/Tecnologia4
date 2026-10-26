@@ -59,7 +59,7 @@ Para que los cables no estén a la vista de los pájaros, se imprimirán una ser
 
 Aquí tenemos una tabla con los diferentes componentes y materiales que se van a utilizar para este proyecto, explicando también la función que va a tener cada uno: 
 
-| Materiales y componentes | Función |
+| Materiales, componentes y elementos de fabricación | Función |
 | --- | ---| 
 | ``Sensor de movimiento`` | Este se va a encargar de detectar cuando entra o sale un pájaro de la caseta. Solo tiene dos valores, ``HIGH`` o ``LOW``. |
 | ``Sensor de temperatura y humedad`` | Como dice su nombre, este va a detectar la temperatura y la humedad, la calidad de la caseta y de como se va a encontrar dentro el pájaro de la caseta. |
