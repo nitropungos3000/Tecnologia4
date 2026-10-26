@@ -134,6 +134,14 @@ Justo debajo podemos ver dos imágenes que nos muestran los dos tipos de soporte
 <img src="Imágenes/PIEZA SUJECCIÓN MAPA.png" width="700" height="600" />
 </p>
 
+<p align="center">
+<img src="Imágenes/" width="700" height="600" />
+</p>
+
+<p align="center">
+<img src="Imágenes/CUÑAS MADERA.jpg" width="700" height="600" />
+</p>
+
 
 
 
