@@ -38,10 +38,12 @@ Ahora bien, es necesario tener un sistema de ciberseguridad. Lo principal seguri
 
 Después de debatir sobre las diferentes ideas del grupo, finalmente nos hemos decantado por mi idea, la caseta inteligente para pájaros. Hemos modificado y añadido diferentes elementos pensando en la posibilidad de poder montar tanto técnicamente como económiocamente el proycto. 
 
+## Medidas y lugar de los componentes en el techo
 Como primera fase de desarrollo, propusimos las medidas, para nosotros ideales, que debería de tener la caseta. En principio, va a ser cuadrada, con 25x25x25 cm (iguales medidas para anchura, altura y profundidad), con una puerta en forma circular de 12 cm de diámetro y un techo de 8 cm de altura en forma de triángulo sin base, como las típicas casitas de los cuentos. 
 
 En segundo lugar, pensamos en los lugares donde debían estar todos los componentes, ya que había que tener en cuenta que no pueden bajo ningún concepto estar al alcance del pájaro del interior ya que tendería a picotearlo o romperlo. Esto nos llevó a la decisión de colocar todos los componentees en el techo, ya que va a tener el suficiente espacio para ello. Al estar hueco  y tener una altura considerable, caben de sobra los componentes que no pueden estar a la vista, como son el sensor de ultrasonido, la placa, el sensor de humedad y temperatura y los cables. De esta manera, no serán visibles para el pájaro y podrán funcionar perfectamente sin necesidad de arriesgarse a que los componentes se deterioren. Para el sensor de humedad y temperatura, hemos inventado una especie de soporte para que, desde el techo, pueda analizar el ambiente en la caseta. Ahora mostraré una foto con él. 
 
+## Lugar de los componentes en el interior de la caseta
 El techo debe de tener una serie de agujeros para que los sensores puedan detectar los valores que necesiten leer (en este caso el de humedad y temperatura y el de ultrasonidos para la cantidad de comida, de la que hablaremos posteriormente). Con esto, pasamos al interior de la caseta. Aquí, solo se van a encontrar, el dispensador de comida, el recipiente donde va a caer la comida, el dispensador de agua y el sensor de movimiento para detectar cuando entra y salen los pájaros. Vamos por partes:
 
 ·El dispensador de comida va a ser muy sencillo, una cajetilla en forma rectangular con una trampilla que va a estar controlada por el servomotor para dejar caer la comida del interior. Para controlar el servomotor, el sensor de presión va a ser el encargado de decir cuando va a echar comida y parar de hacerlo. Este se va a encontrar debajo del recipiente donde va a caer la comida, y al detectar la presión dependiendo del nivel de comida que tenga el recipiente continuará el servo dejando pasar la comida o no. Se verá má claro con el mntaje realizado. Después, para detectar cuánta comida hay en el dispensador, entra el ultrasonido en acción. Este, según la distancia que haya entre la comida y el sensor, va a enviar las señales a la placa. Si hay un nivel de distancia considerable entre el sensor y la comida, este enviará la señal de que hay que rellenar el dispensador. Por eso, en la base del techo se realizarán una serie de agujeros que permitan a los sensores detectar los diferentes valores necesarios. Por lo tanto, el dispensador de comida por arriba no tendrá ninguna tapadera, porque estará abierta para el ultrasonido posicionado en el techo.
@@ -54,6 +56,7 @@ El emplazamiento que se había pensado principalmente para la caseta en el insti
 
 Para que los cables no estén a la vista de los pájaros, se imprimirán una serie de canaletas en las que se encuentren dentro los cables. Principalmente, va a ir dirigido al servomotor del dispensador de comida y al sensor de movimiento
 
+## Tabla de componentes, materiales y dispositivos de fabricación
 Aquí tenemos una tabla con los diferentes componentes y materiales que se van a utilizar para este proyecto, explicando también la función que va a tener cada uno: 
 
 | Materiales, componentes y dispositivos de fabricación | Función |
@@ -75,6 +78,7 @@ Aquí tenemos una tabla con los diferentes componentes y materiales que se van a
 | ``Cortadora láser`` | Nos ayudará a crear y cortar la madera congtrachapada para la estructura de la caseta. |
 | ``Impresora 3D`` | Imprimirá las canaletas de los cables y otros elementos (como el dispensador de comida y agua). |
 
+## Ciberseguridad y página web
 Para poder controlar los diferentes valores que recibamos de la caseta, hemos pensado en crear una página web, a la que la placa va a enviar todos esos valores. Se va a comunicar por Wi-Fi, al estar disponible ya que en el centro tenemos y también porque tiene un mayor rango que el Bluetooth. Esta página web en cuestión va a tener diferentes apartados donde vamos a poder concocer la temperatura y el nivel de humedad, la cantidad de comida que hay en el dispensador, el nivel de agua que que tiene el dispensador o el depósito, la cantidad de comida que hay en el comedero, etc. En general, todos los valores se van a poder ver aquí. No todo el mundo va a poder acceder a la página web, solo usuarios autorizados que accedan a ella mediante un usuario y una contraseña o una llave de seguridad física (ya sea una llave USB o un chip NFC). 
 
 
