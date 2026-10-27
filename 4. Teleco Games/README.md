@@ -104,5 +104,6 @@ Posteriormente se completará este apartado del proyecto conforme vayamos trabaj
 <img src="Imágenes/ODS.jpg" width="700" height="500" />
 </p>
 
+Estos son los principales OODS en los que se basa el proyecto: En primer lugar, el ODS 15 (Vida de ecosistemas terrestres) es el pilar central, ya que la caseta está diseñada para proteger, alimentar y cuidar a los pájaros locales en el entorno de nuestro instituto. En segundo lugar, aplicamos el ODS 11 (Ciudades y comunidades sostenibles) al integrar tecnología IoT en un espacio educativo para fomentar la biodiversidad y la convivencia con la naturaleza en los espacios comunes del centro. Asimismo, el proyecto cumple con el ODS 9 (Industria, innovación e infraestructura) gracias al uso de componentes avanzados de telecomunicaciones como la placa ESP32, los diferentes sensores, sistemas de control automatizados y una página web segura para el monitorizado de todos los valores de forma remota, además de los sistemas de ciberseguridad. Por último, el ODS 12 (Producción y consumo responsables) se refleja tanto en la optimización de los recursos de comida y agua mediante sensores de presión y ultrasonidos como en el uso eficiente de materiales de fabricación digital como la cortadora láser y la impresora 3D.
 
 
