@@ -98,7 +98,11 @@ Por mi parte, he realizado una maqueta en Tinkercad de la caseta a escala real. 
 ## Objetivos de Desarrollo Sostenible que cumplirá esta caseta.
 El objetivo principal de los Teleco Games es realizar un proyecto que cumpla con alguno de los 17 OODS que se plantean en la Agenda 2030. 
 
-Posteriormente se completará este apartado del proyecto conforme vayamos trabajando en él a lo largo del curso. 
+Posteriormente se completará este apartado del proyecto conforme vayamos trabajando en él a lo largo del curso. Aquí debajo podemos ver todos los objetivos que existen: 
+
+<p align="center">
+<img src="Imágenes/ODS.jpg" width="700" height="500" />
+</p>
 
 
 
